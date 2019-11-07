@@ -1,0 +1,12 @@
+{
+  "name": "infinitybot",
+  "version": "0.1.0",
+  "description": "Projet discord infinity",
+  "main": "main.js",
+  "repository": "https://github.com/adriendt22/bot-infinity.git",
+  "author": "adriendt22 <adriendt22@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "discordjs/discord.js"
+  }
+}
