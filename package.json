@@ -1,12 +1,28 @@
 {
-  "name": "infinitybot",
-  "version": "0.1.0",
-  "description": "Projet discord infinity",
-  "main": "main.js",
-  "repository": "https://github.com/adriendt22/bot-infinity.git",
-  "author": "adriendt22 <adriendt22@users.noreply.github.com>",
-  "license": "MIT",
+  "//1": "describes your app and its dependencies",
+  "//2": "https://docs.npmjs.com/files/package.json",
+  "//3": "updating this file will download and update your packages",
+  "name": "hello-express",
+  "version": "0.0.1",
+  "description": "A simple Node app built on Express, instantly up and running.",
+  "main": "index.js",
+  "engine": { "node": "8.1.2"},
+  "scripts": {
+    "start": "node index.js"
+  },
   "dependencies": {
-    "discord.js": "discordjs/discord.js"
-  }
+    "express": "^4.17.1"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
 }
